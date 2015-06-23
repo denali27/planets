@@ -1,0 +1,3 @@
+mars is red
+cold
+dry
